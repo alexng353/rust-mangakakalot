@@ -1,3 +1,7 @@
+# rust-mangakakalot is now deprecated
+
+## see [mkkl-dl](https://github.com/alexng353/mkkl-dl) for new code
+
 # rust-mangakakalot
 
 Author: [@alexng353](https://github.com/alexng353)
